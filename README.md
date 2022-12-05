@@ -1,7 +1,7 @@
 # MathCombinationExample
-In this java program, program will generate random (length of the word you entered) letters word with using the letters in your word.
+In this java program, there is an algorithm about the given example below.
 
-Ex: How many different words can we generate with in lettes ENGINEER ?
+Ex: How many different words can we generate with in letters ENGINEER ?
 The formula:
 There are 8 letters in the word ENGINEER. 3E, 2N, 1G, 1I, 1R.  You are going to replace these letters in 8 space area.
 - - - - - - - -
