@@ -54,7 +54,7 @@ public class mathProblem {
 	public static void main(String[] args) {
 		
 		Scanner sc = new Scanner(System.in);
-		System.out.println("When you entered a word the program will generate different words with the letters in your word.");
+		System.out.println("When you entered a word the program will show the number of different words with the letters in your word.");
 		System.out.print("Enter the word: ");
 		String word = sc.next();
 		int size = word.length();
